@@ -136,7 +136,7 @@ h2 {
   justify-content: space-evenly;
   font-size: 20px;
   margin: 5% 30%;
-  background: rgb(6, 138, 6);
+  background: rgb(16, 153, 16);
   border: none;
   border-radius: 8px;
   color: white
@@ -155,7 +155,7 @@ h3 {
   height: 5%;
   border-radius: 7px;
   padding: 4px 28px;
-  background: green;
+  background: rgb(16, 153, 16);
   border: 1px solid white;
   color: white
 }
@@ -164,4 +164,6 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 1.5% 0;
+  background: green
 }
